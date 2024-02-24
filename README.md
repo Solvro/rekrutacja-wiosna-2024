@@ -2,7 +2,7 @@
 <img src="./assets/logo_solvro.png" height="200">
 </div>
 
-# Rekrutacja jesienna 2023
+# Rekrutacja wiosna 2024
 
 #### W ramach rekrutacji stworzyliśmy zadania z różnych kategorii:
 ---
