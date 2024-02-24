@@ -11,7 +11,7 @@
   - [Backend](./backend.md)
   - [UI/UX designer](./graphic.design.md)
 --- 
-** W przypadku zadania na backend, akceptujemy tylko wyłącznie rozwiązania w TypeScript lub JavaScript **
+**W przypadku zadania na backend, akceptujemy tylko wyłącznie rozwiązania w TypeScript lub JavaScript**
 Termin zgłaszania swoich rozwiązań to **xxx**!
 
 Wybierz zadanie, a rozwiązanie udostępnij nam w postaci linka do swojego repozytorium (nie musi być github!).
