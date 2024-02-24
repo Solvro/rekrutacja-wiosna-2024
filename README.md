@@ -9,7 +9,7 @@
   - [Frontend](./frontend.md)
   - [Mobile](./mobile.md)
   - [Backend](./backend.md)
-  - [UI/UX designer](./graphic.design.md)
+  - [UI/UX designer](./uiux.design.md)
 --- 
 **W przypadku zadania na backend, akceptujemy tylko wyłącznie rozwiązania w TypeScript lub JavaScript**
 Termin zgłaszania swoich rozwiązań to **xxx**!
