@@ -31,7 +31,7 @@ Z naszych testów wynika jednak, że API powinno dostarczyć wszystkich potrzebn
 6. Dodawanie pozycji zakupowych do wybranej listy zakupów
  	- Pozycja zakupowa to produkt oraz ilość tego produktu na liście (produkt + liczba + jednostka)
 	-	Dla uproszczenia, możliwe produkty są do wyboru z pośród listy możliwych produktów, pobieranej z `REST API`
-	-	Podczas wybierania nowych produktów do dodania do listy, powinna być jakaś możliwość wyszukiwania/filtrowania/zawężania produktów, poprzez wpisywania jej nazwy w polu wyszukiwania.
+	-	Podczas wybierania nowych produktów do dodania do listy, powinna być jakaś możliwość `wyszukiwania`/`filtrowania`/`zawężania produktów`, poprzez wpisywania jej nazwy w polu wyszukiwania.
 
 	
 7. Przeglądanie wszystkich list zakupów z dodanymi produktami
@@ -61,4 +61,5 @@ Poniższe funkcjonalności, nie są wymagane, ale są mile widziane i jeśli zos
 
 W razie pytań lub wątpliwości co do wymagań, albo możliwości `API`, zapraszamy do kontaktu. Wymagania w większości dotyczą tylko funkcjonalności i wasze aplikacje mogą zapewnić te funkcjonalności za pomocą dowolnie wymyślonego przez was interfejsu. Interfejs może być w języku Polskim lub Angielskim (można wybrać wedle preferencji) i przede wszystkim, powinien być jasny i intuicyjny. Oceniana jest też struktura, jakość i czytelność kodu.
 
-### **Powodzenia!**
+## **Powodzenia!**
+Zachęcamy każdego do spróbowania swoich sił i życzymy miłej zabawy.
