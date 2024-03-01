@@ -2,7 +2,6 @@
 
 Zadaniem jest stworzenie aplikacji mobilnej do zarządzania listami zakupów: `Solvro BasketBuddy`.  
 Termin wykonania zadania: xx  
-_Notka: Jeszcze będę testował wszystko do końca, ale co zasady gotowe_   
   
   
 Wszędzie gdzie to możliwe, funkcjonalności powinny być tworzone w integracji z `REST-owym API`. 
@@ -15,7 +14,7 @@ W przypadku problemów z `API`, pytań do wymagań zadania lub dowolnie innych p
 
 Jeśli uważasz, że możliwości udostępnionego `API` są niewystarczające do wymaganych przez nas lub zaplanowanych przez ciebie funkcjonalności, zapraszamy do `konsultacji/pytania`, ale dopuszczamy też stworzenie swojego `API` - musi ono jednak umożliwiać na zintegrowanie conajmniej wszystkich wymaganych poniżej funkcjonalności aplikacji.
 
-Z naszych testów wynika jednak, że API powinno dostarczyć wszystkich potrzebnych funkcji do zaimplementowania wymaganych i mile widzianych funkcjonalności. Jest ono jednak minimalistyczne i w wielu miejscach, przenosi ciężar `logiki biznesowej` na stronę aplikacji mobilnej. _(Jeszcze nie sprawdzałem w 100%)_
+Z naszych testów wynika jednak, że API powinno dostarczyć wszystkich potrzebnych funkcji do zaimplementowania wymaganych i mile widzianych funkcjonalności. Jest ono jednak minimalistyczne i w wielu miejscach, przenosi ciężar `logiki biznesowej` na stronę aplikacji mobilnej.
 
 
 # Wymagane funkcjonalności aplikacji (must-have features)
