@@ -1,7 +1,7 @@
 # Backend
 
 **Akcpetujemy zadania tylko w TypeScript/JavaScript!**
-**Termin wykonania zadania:** **xxx**
+**Termin wykonania zadania:** **15.04.2024**
 
 ### Opis projektu
 

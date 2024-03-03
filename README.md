@@ -12,7 +12,7 @@
   - [UI/UX designer](./uiux.design.md)
 --- 
 **W przypadku zadania na backend, akceptujemy tylko wyłącznie rozwiązania w TypeScript lub JavaScript**
-Termin zgłaszania swoich rozwiązań to **xxx**!
+Termin zgłaszania swoich rozwiązań to **15.04.2024**!
 
 Wybierz zadanie, a rozwiązanie udostępnij nam w postaci linka do swojego repozytorium (nie musi być github!).
 
