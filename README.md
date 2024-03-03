@@ -18,7 +18,7 @@ Wybierz zadanie, a rozwiązanie udostępnij nam w postaci linka do swojego repoz
 
 Zadania powinny być rozwiązywane indywidualnie.
 
-[Link do rozwiązania należy wysłać przez formularz zgłoszeniowy](xxx). W razie jakichkolwiek pytań nie bój się ich zadawać na facebooku :) https://www.facebook.com/knsolvro/ 
+[Link do rozwiązania należy wysłać przez formularz zgłoszeniowy](https://forms.gle/qUw49xdBkP5YBgyj9). W razie jakichkolwiek pytań nie bój się ich zadawać na facebooku :) https://www.facebook.com/knsolvro/ 
 
 **Powodzenia!**
 
