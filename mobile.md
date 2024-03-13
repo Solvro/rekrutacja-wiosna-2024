@@ -16,6 +16,9 @@ Jeśli uważasz, że możliwości udostępnionego `API` są niewystarczające do
 
 Z naszych testów wynika jednak, że API powinno dostarczyć wszystkich potrzebnych funkcji do zaimplementowania wymaganych i mile widzianych funkcjonalności. Jest ono jednak minimalistyczne i w wielu miejscach, przenosi ciężar `logiki biznesowej` na stronę aplikacji mobilnej.
 
+Jeśli nie uda Ci się zrealizować wszystkich wymagań, nie przejmuj się - zwróć uwagę na jakość kodu i wyślij nam zadanie do sprawdzenia.
+
+
 
 # Wymagane funkcjonalności aplikacji (must-have features)
 
