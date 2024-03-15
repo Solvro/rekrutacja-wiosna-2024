@@ -10,6 +10,8 @@
   - [Mobile](./mobile.md)
   - [Backend](./backend.md)
   - [UI/UX designer](./uiux.design.md)
+  - [Project Manager](./projectmanager.md)
+  - [Social Media](./socialmedia.md)
 --- 
 **W przypadku zadania na backend, akceptujemy tylko wyłącznie rozwiązania w TypeScript lub JavaScript**
 Termin zgłaszania swoich rozwiązań to **15.04.2024**!
