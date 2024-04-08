@@ -6,7 +6,7 @@
 
 Koło Naukowe Solvro może kojarzyć się głównie z informatyką, ale nie tylko programiści są członkami naszego koła. Zespoły projektowe składają się z wielu osobowości, o wielu kompetencjach. Może tym razem potrzebujemy właśnie Ciebie ;) 
 
-Poszukujemy osoby gotowej do działania, kreatywnej i pełnej energii. Osoby, która będzie posiadać wiedzę i umiejętności zarządcze, i nie będzie miała problemu z nawiązaniem i utrzymaniem relacje z innymi. A przede wszystkim, będzie wstanie ogarnąć bandę programistów.
+Poszukujemy osoby gotowej do działania, kreatywnej i pełnej energii. Osoby, która będzie posiadać wiedzę i umiejętności zarządcze, i nie będzie miała problemu z nawiązaniem i utrzymaniem relacji z innymi. A przede wszystkim, będzie w stanie ogarnąć bandę programistów.
 
 Jedyne o co prosimy to o dokument lub prezentacje, w którym:
 Opowiesz Nam o sobie.
